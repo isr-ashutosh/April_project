@@ -1,0 +1,25 @@
+p{
+    color: blue;
+    background-color: rgb(255, 136, 0);
+}
+h1{
+    background-color: greenyellow;
+}
+#head1{
+    background-color: blueviolet;
+
+}
+#head2{
+    background-color: green;
+
+}
+#head3{
+    background-color: deeppink;
+}
+body{
+    border: 1px solid black;
+    width: 90%;
+}
+ol{
+    color: teal;
+}
